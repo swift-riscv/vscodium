@@ -1,5 +1,5 @@
 # VSCodium
-Packaging VSCodium for riscv64 - Ubuntu / Debian
+*Packaging VSCodium for riscv64 - Ubuntu / Debian*
 
 `VSCodium` for `riscv64` releases are available here [VSCodium](https://github.com/VSCodium/vscodium/releases) but there are no `.deb` install packages available.
 
