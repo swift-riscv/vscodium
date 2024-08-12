@@ -20,7 +20,7 @@ pipeline {
             echo 'Cleaning Workspace'
             cleanWs()
             script {
-                    currentBuild.displayName = "vscodium-${PKG_VERSION}-RELEASE-${PKG_ITERATION}"
+                    currentBuild.displayName = "codium-${PKG_VERSION}-RELEASE-${PKG_ITERATION}"
                 }
          }
       }
