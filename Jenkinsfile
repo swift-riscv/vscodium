@@ -6,7 +6,7 @@ pipeline {
 
    environment {
         //
-        PKG_VERSION='1.91.1.24193'
+        PKG_VERSION='1.92.1.24225'
         PKG_ITERATION='1'
         ARCH = 'riscv64'
         // weblinks
